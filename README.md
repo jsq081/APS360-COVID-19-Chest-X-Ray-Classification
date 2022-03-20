@@ -1,6 +1,7 @@
 # APS360-COVID-19-Chest-X-Ray-Classification
 
 classify the feature among COVID-19, viral pneumonia and normal chest radiography
+achieve the final test accuracy with 98% with Referencr model
 
 ## Contributors 
 - Yunyi (Cynthia) Chen
